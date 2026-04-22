@@ -1,5 +1,8 @@
 # 🏫 SmartCampusAPI
 
+MODULE: (2025) 5COSC022W.2 Client-Server Architectures
+Ibrahim Chowdhury W1905510 
+
 A fully functional **RESTful API** for managing Rooms and Sensors across a Smart Campus, built using **JAX-RS (Jersey)** with an embedded **Grizzly HTTP server**. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
